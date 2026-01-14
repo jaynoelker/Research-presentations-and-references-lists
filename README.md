@@ -1,2 +1,2 @@
-# ReferencesLists
-Reference lists for conference presentations and posters.
+# Presentations and references lists
+Research presentations and posters and reference lists.
